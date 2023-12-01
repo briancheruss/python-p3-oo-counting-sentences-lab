@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 
-from count_sentences import MyString
-
 import io
+from count_sentences import MyString
 import sys
 
 class TestMyString:
